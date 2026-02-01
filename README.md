@@ -35,14 +35,7 @@ The goal of this project is to showcase both my **technical skills** and my **pr
 
 ---
 
-## 🚀 How the Project Works
 
-1. Users access the application through a web browser.
-2. The interface presents content in a clear and user-friendly manner.
-3. JavaScript handles interactions and dynamic behavior.
-4. The app responds smoothly across different screen sizes.
-
----
 
 ## 📂 Project Structure (Example)
 
