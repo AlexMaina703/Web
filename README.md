@@ -8,14 +8,7 @@ The goal of this project is to showcase both my **technical skills** and my **pr
 
 ---
 
-## 🎯 Objectives
 
-* Build a functional and responsive web application
-* Apply core web development concepts in a real project
-* Demonstrate clean architecture and readable code
-* Showcase this project as part of my professional portfolio
-
----
 
 ## ✨ Features
 
