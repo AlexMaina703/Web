@@ -34,9 +34,7 @@ web-project/
 
 * Add backend integration (API or database)
 * Improve accessibility (ARIA, keyboard navigation)
-* Enhance UI/UX with animations
-* Implement authentication and user accounts
-
+* Enhance UI/UX with animation
 ---
 
 ## 👨‍💻 Author
